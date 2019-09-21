@@ -1,7 +1,7 @@
 # hoomd-install
-hoomd after version 2.3 (with cuda 8.0) can't be naive install with conda and cuda, if one install it will only run with cpu.
+Issue: hoomd after version 2.3 (with cuda 8.0) can't be naively install with conda working with cuda, if one install by conda it will only run with cpus.
 
-hoomd install with gpu and ubuntu 18.04 in local, not sure how to do in cluster yet.
+Target: Install hoomd and running with Nvidia gpu under ubuntu 18.04 in local dekstop (sudo required), not sure how to do with out sudo or in cluster yet.
 
 Prerequisites: working conda and cuda
 
