@@ -1,4 +1,5 @@
 #from hoomd doc https://buildmedia.readthedocs.org/media/pdf/hoomd-blue/latest/hoomd-blue.pdf
+# run by : python3 test.py --gpu=0
 import hoomd
 from hoomd import md
 hoomd.context.initialize()
