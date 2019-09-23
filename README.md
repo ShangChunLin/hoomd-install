@@ -37,7 +37,7 @@ test (test.py is provided):
 
       python3 test.py --gpu=0
 
-(change numberto desired gpu, run "nvidia-smi" to check)
+(change number to desired gpu, run "nvidia-smi" to check)
      
 
 if it work, write 
