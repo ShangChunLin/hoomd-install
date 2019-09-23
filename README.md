@@ -35,7 +35,7 @@ compile:
 
 test (test.py is provided):
 
-      python3 test.py --gpu=1
+      python3 test.py --gpu=0
 
      
 
